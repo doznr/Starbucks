@@ -26,8 +26,10 @@
 // 메세지(-m)와 함께 버전을 생성.
 
 // 수정된 index.html 을 깃헙에 올릴때 쓰는 터미널 코드
+// git status <- 수정된게 어떤건지 확인 가능
 // $ git add .
 // $ git commit -m 'index.html 수정'
+// $ git push origin main
 
 
 //remote => 원격 
